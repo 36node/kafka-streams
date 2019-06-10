@@ -61,7 +61,7 @@
     "dependencies": {
         "bluebird": "~3.5.4",
         "debug": "~4.1.1",
-        "global": "^4.3.2",
+        "global": "4.3.2",
         "lodash.clone": "^4.5.0",
         "lodash.clonedeep": "^4.5.0",
         "most": "~1.7.3",
